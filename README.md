@@ -13,3 +13,5 @@ Desa is a dataset of black minority and Asian residents of Scotland. It shows th
 
 ![Screenshot (10)](https://user-images.githubusercontent.com/30722736/233785625-7af80791-c3eb-4242-8610-c27e6afaa13b.png)
 Here, we order by a specific column, this uses the column as key to connect oither columns.
+
+##### Select * from desa where City = 'Dundee'
