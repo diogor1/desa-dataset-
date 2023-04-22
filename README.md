@@ -16,3 +16,4 @@ Here, we order by a specific column, this uses the column as key to connect oith
 
 ##### Select * from desa where City = 'Dundee'.
 ![Screenshot (12)](https://user-images.githubusercontent.com/30722736/233787225-f1c0245f-5c05-4795-9c73-64d8d81c06b4.png)
+Here, we query only those residents who live in Dundee...
