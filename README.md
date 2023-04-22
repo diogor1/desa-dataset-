@@ -21,3 +21,4 @@ Here, we query only those residents who live in Dundee...
 ##### Select * from desa where City = 'Dundee'AND Religion = 'Muslim'
 
 ![Screenshot (14)](https://user-images.githubusercontent.com/30722736/233787862-62cc431b-6b7d-4c21-bf49-34bf5fdf5678.png)
+the and' function narrows down the variables 
