@@ -26,3 +26,5 @@ the and' function narrows down the variables
 ##### Select * from desa 
 ##### where Useful_Feedback > 3 
 ##### order by Interview_Feedback Desc
+
+![Screenshot (16)](https://user-images.githubusercontent.com/30722736/233809000-7c1390f7-753d-4e53-ad4e-aa064d7b847f.png)
