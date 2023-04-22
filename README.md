@@ -22,3 +22,7 @@ Here, we query only those residents who live in Dundee...
 
 ![Screenshot (14)](https://user-images.githubusercontent.com/30722736/233787862-62cc431b-6b7d-4c21-bf49-34bf5fdf5678.png)
 the and' function narrows down the variables 
+
+##### Select * from desa 
+##### where Useful_Feedback > 3 
+##### order by Interview_Feedback
