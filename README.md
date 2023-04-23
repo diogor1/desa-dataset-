@@ -43,7 +43,7 @@ Here, we queriesd the countries and religions that end with a or u, eitherways, 
 ##### select * from desa
 ##### where City in ('Glasgow', 'Edinburgh')
 ##### order by country
-
+![Screenshot (22)](https://user-images.githubusercontent.com/30722736/233835309-51383bb5-c9c7-4bff-9b71-e0eeed67e34c.png)
 
 
 
