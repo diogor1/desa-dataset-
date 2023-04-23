@@ -38,6 +38,7 @@ we applied two concepts here; 1. the variable: useful feedback start from 3 and 
 
 ##### Select * from desa 
 #### where Country like '%a' and Religion like '%u'
+![Screenshot (20)](https://user-images.githubusercontent.com/30722736/233824040-b865ca68-98fe-4c05-80e5-712997caafbe.png)
 
 
 
