@@ -40,6 +40,8 @@ we applied two concepts here; 1. the variable: useful feedback start from 3 and 
 ![Screenshot (20)](https://user-images.githubusercontent.com/30722736/233824040-b865ca68-98fe-4c05-80e5-712997caafbe.png)
 Here, we queriesd the countries and religions that end with a or u, eitherways, and also the countries and religions that end with both a and u.
 
+
+
 ##### select * from desa
 ##### where City in ('Glasgow', 'Edinburgh')
 ##### order by country
