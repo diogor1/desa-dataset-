@@ -29,3 +29,7 @@ the and' function narrows down the variables
 
 ![Screenshot (16)](https://user-images.githubusercontent.com/30722736/233809000-7c1390f7-753d-4e53-ad4e-aa064d7b847f.png)
 we applied two concepts here; 1. the variable: useful feedback start from 3 and above, also the orderby (sorting) was in a descending order.
+
+##### Select * from desa 
+##### where Country like '%a' or Religion like '%u'
+
