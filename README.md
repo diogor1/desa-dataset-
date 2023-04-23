@@ -32,14 +32,13 @@ we applied two concepts here; 1. the variable: useful feedback start from 3 and 
 
 ##### Select * from desa 
 ##### where Country like '%a' or Religion like '%u'
-
 ![Screenshot (19)](https://user-images.githubusercontent.com/30722736/233823928-09f28d44-a891-4e6c-8254-6a7b35af6b49.png)
 
 
 ##### Select * from desa 
 #### where Country like '%a' and Religion like '%u'
 ![Screenshot (20)](https://user-images.githubusercontent.com/30722736/233824040-b865ca68-98fe-4c05-80e5-712997caafbe.png)
-
+Here, we queriesd the countries and religions that end with a or u, eitherways, and also the countries and religions that end with both a and u.
 
 
 
